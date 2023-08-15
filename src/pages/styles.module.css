@@ -1,0 +1,12 @@
+/* src/pages/styles.module.css */
+.codeSnippet {
+    background-color: #1e1e1e; /* Dark background color */
+    color: #87c38f; /* Light text color */
+    padding: 1rem;
+    border-radius: 4px;
+    overflow: auto;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Add any other custom styles you need for your page */
+  
